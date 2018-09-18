@@ -1,0 +1,14 @@
+.media-form
+{
+  max-width: 360px;
+  padding: 8% 0 0;
+  margin:auto;
+}
+body
+{
+  background: #76b852;
+}
+.video
+{
+  width: 100%;
+}

@@ -8,7 +8,7 @@ function ValidationEvent() {
     f = 1;
     document.getElementById("errormsg").innerHTML =
       '<p class="mer">Invalid Name</p>';
-    // console.log("WTF!");
+    console.log("WTF!");
   }
 
   if (/^(?![a-z0-9]{8,})/.test(pass)) {

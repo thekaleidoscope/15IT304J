@@ -37,7 +37,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "yadhu3";
+$password = "";
 $dbname = "WebP";
 
 try {
